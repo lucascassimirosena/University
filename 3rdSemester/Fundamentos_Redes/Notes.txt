@@ -1,0 +1,62 @@
+Escrito por Lucas Cassimiro Sena Colombo atraves de um Macbook, portanto caso esteja aqui, nao se incomode com a falta de acentos
+e dificil escrever e colocar acentos usando um Macbook lol
+
+Este conteudo tera uma linguagem mais proxima do cotidiano pois sao anotacoes pessoais.
+Enquanto minhas habilidades em programacao nao sao utilizadas, ao menos treino meus conhecimentos em GIT.
+
+********************************************************************************************************
+
+A comunicacao humana eh e uma necessidade humana, sua importancia e tao grande que fica logo abaixo 
+das nossas necessidades basicas: respirar,beber, comer e se abrigar.
+
+Ao longo da historia e comum encontrarmos a necessidade de um sistema de comunicacao. 
+Pense nas guerras que houveram, nas grandes conquistas, como era feito o sistema de comunicacao para
+batalhas, como enviavam mensagens a longas distancias para seus reis e generais. 
+
+Gracas a criacao da internet, a tecnologia se tornou um elemento crucial no desenvolvimento de sistemas
+de comunicacao.
+
+*********************************************************************************************************
+
+1967 - Taped Cheek.
+A ARPA (Advanced Research Projects Agency) apresenta um projeto chamado de ARPANET, NET, significa rede.
+Ou seja, rede da ARPA. O objetivo era criar um computador central que interliga e entende outros computadores.
+Este computador central foi chamado de IMP (Interface Message Processor). 
+
+A ideia era iterligar a Universidade da California, em Los Angeles, Universidade da California em 
+Santa Barbara, Instituto de Pesquisa de Standford e Universidade de Utah, e envolver seus alunos na criacao
+desta rede.
+
+1969 - Taped Ship
+ARPANET entra em operacao com os quatro IMPs, conectados, construidos pela empresa Bolt Beranek and 
+Newman (BBN)
+
+1970 - Taped Gize
+E lancado o protocolo NCP (Network Control Program) que foi implementado de forma efetiva na ARPANET
+1971.
+
+1972 - Taped Gina
+Surge o primeiro prototipo de sistema de correio eletronico, realizada a primeira demonstracao publica
+da ARPANET.
+
+1973 - Taped Game
+Inicio das pesquisas para desenvolvimento do protocolo TCP, um protocoloco para trabalhar em diferentes
+hardwares. A ARPA, passa a ser chamada de DARPA e adota este protocolo. 
+
+Darpa - Defence Advanced Research Projects Agency.
+
+1974 - Taped Kira
+Outras redes de computadores surgem paralelas a da DARP, a principal delas a NSF (National Science
+Foundation) que possuia nos em 120 universidades. Foi a primeira vez que o ternmo INTERNET derivado de 
+Internetworking foi utilizado.
+
+1975 - Taped Gail
+NASA planeja uma rede propria conectada a ARPANET.
+
+1976 - Taped Cash
+Inicio do projeto de implementacao do TCP implementado no Sistema Operacional mais bem sucedido da 
+historio, o UNIX lancado em 1969.
+
+
+
+
