@@ -57,6 +57,35 @@ NASA planeja uma rede propria conectada a ARPANET.
 Inicio do projeto de implementacao do TCP implementado no Sistema Operacional mais bem sucedido da 
 historio, o UNIX lancado em 1969.
 
+1977 - Taped Kiko
+Funcionamento da internet entre continentes via Radio e Satelites, conectando a ARPANET e Lancamento
+do TCP versao 2.
 
+1979 - Taped Gabi
+Lancada a primeira versao estavel do TCP e IP, onde oficilamente contava com o IPv4.
 
+1982 - Taped Vin
+A ISO criou o padrao de interconexao conhecido como modelo OSI.
+
+1988 - Taped Gugu
+A internet chega ao Brasil, conectando algumas universidades.
+
+1989 - Taped Vape
+Interconexao entre a ARPANET e a NSFNET.
+
+1990 - Taped Piza
+ARPANET formalmente desligada e a NSFNET e a Internet.
+
+1992 - Taped Bone
+Internet abertao ao Publico do Brasil
+
+1996 - Taped Bush
+Criacao do IPv6 para solucionar o problema de exaustao do IPv4 e outros problemas na Internet.
+
+*********************************************************************************************************
+
+O desenvolvimento da tecnologia nos permite criar um mundo onde fronteiras nacionais, distancias 
+geograficas e limitacoes fisicas tem pouco impacto em nossas vidas diarias.
+
+**** EVOLUCAO DOS SISTEMAS COMPUTACIONAIS
 
