@@ -6,25 +6,25 @@ Enquanto minhas habilidades em programacao nao sao utilizadas, ao menos treino m
 
 ********************************************************************************************************
 
-A comunicacao humana eh e uma necessidade humana, sua importancia e tao grande que fica logo abaixo 
-das nossas necessidades basicas: respirar,beber, comer e se abrigar.
+A comunicacao humana é e uma necessidade humana, sua importância é tão grande que fica logo abaixo 
+das nossas necessidades básicas: respirar,beber, comer e se abrigar.
 
-Ao longo da historia e comum encontrarmos a necessidade de um sistema de comunicacao. 
-Pense nas guerras que houveram, nas grandes conquistas, como era feito o sistema de comunicacao para
-batalhas, como enviavam mensagens a longas distancias para seus reis e generais. 
+Ao longo da história é comum encontrarmos a necessidade de um sistema de comunicação. 
+Pense nas guerras que houveram, nas grandes conquistas, como era feito o sistema de comunicação para
+batalhas, como enviavam mensagens a longas distâncias para seus reis e generais. 
 
-Gracas a criacao da internet, a tecnologia se tornou um elemento crucial no desenvolvimento de sistemas
-de comunicacao.
+Graças à criação da internet, a tecnologia se tornou um elemento crucial no desenvolvimento de sistemas
+de comunicação.
 
 *********************************************************************************************************
 
 1967 - Taped Cheek.
-A ARPA (Advanced Research Projects Agency) apresenta um projeto chamado de ARPANET, NET, significa rede.
+A ARPA (Advanced Research Projects Agency) apresenta um projeto chamado de ARPANET. NET, significa rede.
 Ou seja, rede da ARPA. O objetivo era criar um computador central que interliga e entende outros computadores.
 Este computador central foi chamado de IMP (Interface Message Processor). 
 
-A ideia era iterligar a Universidade da California, em Los Angeles, Universidade da California em 
-Santa Barbara, Instituto de Pesquisa de Standford e Universidade de Utah, e envolver seus alunos na criacao
+A idéia era iterligar a Universidade da California, em Los Angeles, Universidade da California em 
+Santa Barbara, Instituto de Pesquisa de Standford e Universidade de Utah, e envolver seus alunos na criação
 desta rede.
 
 1969 - Taped Ship
@@ -32,60 +32,71 @@ ARPANET entra em operacao com os quatro IMPs, conectados, construidos pela empre
 Newman (BBN)
 
 1970 - Taped Gize
-E lancado o protocolo NCP (Network Control Program) que foi implementado de forma efetiva na ARPANET
+E lançado o protocolo NCP (Network Control Program) que foi implementado de forma efetiva na ARPANET
 1971.
 
 1972 - Taped Gina
-Surge o primeiro prototipo de sistema de correio eletronico, realizada a primeira demonstracao publica
+Surge o primeiro protótipo de sistema de correio eletronico, realizada a primeira demonstracao publica
 da ARPANET.
 
 1973 - Taped Game
-Inicio das pesquisas para desenvolvimento do protocolo TCP, um protocoloco para trabalhar em diferentes
+Início das pesquisas para desenvolvimento do protocolo TCP, um protocoloco para trabalhar em diferentes
 hardwares. A ARPA, passa a ser chamada de DARPA e adota este protocolo. 
 
 Darpa - Defence Advanced Research Projects Agency.
 
 1974 - Taped Kira
-Outras redes de computadores surgem paralelas a da DARP, a principal delas a NSF (National Science
-Foundation) que possuia nos em 120 universidades. Foi a primeira vez que o ternmo INTERNET derivado de 
+Outras redes de computadores surgem paralelas à da DARP, a principal delas a NSF (National Science
+Foundation) que possuia nós em 120 universidades. Foi a primeira vez que o ternmo INTERNET derivado de 
 Internetworking foi utilizado.
 
 1975 - Taped Gail
 NASA planeja uma rede propria conectada a ARPANET.
 
 1976 - Taped Cash
-Inicio do projeto de implementacao do TCP implementado no Sistema Operacional mais bem sucedido da 
-historio, o UNIX lancado em 1969.
+Início do projeto de implementacao do TCP implementado no Sistema Operacional mais bem sucedido da 
+história, o UNIX laçado em 1969.
 
 1977 - Taped Kiko
-Funcionamento da internet entre continentes via Radio e Satelites, conectando a ARPANET e Lancamento
+Funcionamento da internet entre continentes via Radio e Satelites, conectando a ARPANET e Lançamento
 do TCP versao 2.
 
 1979 - Taped Gabi
 Lancada a primeira versao estavel do TCP e IP, onde oficilamente contava com o IPv4.
 
 1982 - Taped Vin
-A ISO criou o padrao de interconexao conhecido como modelo OSI.
+A ISO criou o padrão de interconexão conhecido como modelo OSI.
 
 1988 - Taped Gugu
 A internet chega ao Brasil, conectando algumas universidades.
 
 1989 - Taped Vape
-Interconexao entre a ARPANET e a NSFNET.
+Interconexão entre a ARPANET e a NSFNET.
 
 1990 - Taped Piza
-ARPANET formalmente desligada e a NSFNET e a Internet.
+ARPANET formalmente desligada e a NSFNET é a Internet.
 
 1992 - Taped Bone
-Internet abertao ao Publico do Brasil
+Internet aberta ao Publico do Brasil
 
 1996 - Taped Bush
 Criacao do IPv6 para solucionar o problema de exaustao do IPv4 e outros problemas na Internet.
 
 *********************************************************************************************************
 
-O desenvolvimento da tecnologia nos permite criar um mundo onde fronteiras nacionais, distancias 
-geograficas e limitacoes fisicas tem pouco impacto em nossas vidas diarias.
+O desenvolvimento da tecnologia nos permite criar um mundo onde fronteiras nacionais, distâncias 
+geográficas e limitações físicas tem pouco impacto em nossas vidas diarias.
 
 **** EVOLUCAO DOS SISTEMAS COMPUTACIONAIS
 
+Na década de 50 os computadores eram grandes e demandavam alto grau de especialização, desta forma, as 
+que os operavam eram pessoas com qualificação.
+
+Em 60, houve uma evolução da arquitetura sendo possível aos usuários interagirem com o computador através
+dos primeiros terminais interativos.
+
+Em 1970 ocorrem grandes mudanças com o surgimento dos microcomputadores, as empresas começam a distribuir o
+poder computacional em diversas áreas da empresa.
+
+Devido a isto, surgem novas necessidades, como o compartilhamento de recursos dos dispositivos e periféricos, a
+troca de informações e ambiente de trabalho cooperativo.
