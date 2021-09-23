@@ -114,3 +114,51 @@ sua aplicação em redes de computadores.
     SINAIS - Ondas que se propagam por um meio físico.
 
 ANALÓGICO E DIGITAL
+
+Em termos analógico e digital se referem à forma como o sinal transmitido varia com o tempo.
+Quando o sinal (sua amplitude) varia continuamente ao longo do tempo, ou seja, pode possuir um valor
+diferente a cada instante diferente do tempo, ele é dito analógico, ou seja o sinal é representado por
+uma onda contínua com seus valores variando através do tempo. Um exemplo desse tipo de sinal é a nossa voz.
+
+Já o sinal digital, mantém sua amplitude constante durante um intervalo de tempo. 
+
+***************************************************************************************************************
+****** TRANSMISSÃO DA INFORMAÇÃO
+
+A transmissão da informação é o fluxo de informações através de um canal de transmissão
+entre dois ou mais dispositivos (emissor/receptor), de acordo com uma série de regras predefinidas e do conhecimento
+das entidades envolvidas.
+
+Em transmissão de sinais digitais, define-se banda passante necessária como largura de banda mínima capaz de garantir que o 
+receptor ainda recupere a informação original; é o intervalo de frequências que compõem o sinal.
+
+A largura da banda é o tamanho da banda passante, a diferença entre a maior e a menor frequência que compõem o sinal.
+Em redes, utilizamos essa informação para especificar a velocidade do tráfego de rede, ou seja, qual é a capacidade em bits que 
+o canal possui para transmitirou receber dados por unidade de tempo (geralmente segundos). Por exemplo: 10Mbps, lê-se 10 mega bits
+por segundo (bits não bytes).
+
+***************************************************************************************************************
+****** FONTES DE DISTORÇÃO
+
+O sinal recebido por um receptor, em qualquer transmissão, consiste no sinal transmitido modificado por várias distorções inseridas
+durante a transmissão. 
+
+    Ruídos
+    O ruído é a interferência de sinais indesejáveis. É um dos maiores limitantes de desempenho e podem ser classificados em 4 tipos:
+
+        - Ruídos Térmicos:
+        Provocados pela agitação de elétrons nos condutores.
+        - Ruídos de Intermodulação:
+        Provocados por defeitos em componentes do sistema ou por sinais com potência muito alta.
+        Este caso pode acontecer quando existe multiplexação na transmissão do sinal.
+        - Crosstalk:
+        provocados por uma interferência indesejável entre condutores próximos. Um caso muito comum para observar esse efeito é a famosa linha
+        cruzada em telefonia.
+        - Ruído Impulsivo
+        provocados por pulsos regulares e com grandes amplitudes e podem ser provocados por distúrbios elétricos externos,
+        falhas de equipamentos, etc. Interferências eletromagnéticas provocam esse tipo de ruído, por exemplo: um cabo de rede passando juntamente A
+        cabos elétricos e reatores de lâmpadas fluorescentes.
+
+
+
+
