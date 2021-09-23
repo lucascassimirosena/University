@@ -99,4 +99,18 @@ INFORMAÇÃO E SINAL
 O processo de comunicação fica caracterizado quando ocorre uma transmissão de INFORMAÇÃO
 de uma origem a um destino através de uma sucessão de processos:
 
-1. Geração de uma ideia (informação) na origem.
+1. Geração de uma ideia (informação) na origem;
+2. Descrição dessa ideia por um conjunto de símbolos (dados);
+3. Codificação dos símbolos (sinal);
+4. Transmissão dos símbolos codificados ao destino;
+5. Decodificação e reprodução dos símbolos pelo destinatário;
+6. Recriação da ideia transmitida pelo destinatário.
+
+Os sistemas de comunicação em redes de computadores utilizam sinais ou ondas eletromagnéticas que trafegam
+através de meios físicos de transmissão. É importante saber diferenciar informação de sinal para compreendermos
+sua aplicação em redes de computadores.
+
+    INFORMAÇÃO - Ideias ou dados manipulados ou processados.
+    SINAIS - Ondas que se propagam por um meio físico.
+
+ANALÓGICO E DIGITAL
