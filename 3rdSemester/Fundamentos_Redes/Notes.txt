@@ -6,8 +6,8 @@ Enquanto minhas habilidades em programacao nao sao utilizadas, ao menos treino m
 
 ********************************************************************************************************
 
-A comunicacao humana é e uma necessidade humana, sua importância é tão grande que fica logo abaixo 
-das nossas necessidades básicas: respirar,beber, comer e se abrigar.
+A comunicaçao humana é e uma necessidade humana, sua importância é tão grande que fica logo abaixo 
+das nossas necessidades básicas: respirar, beber, comer e se abrigar.
 
 Ao longo da história é comum encontrarmos a necessidade de um sistema de comunicação. 
 Pense nas guerras que houveram, nas grandes conquistas, como era feito o sistema de comunicação para
@@ -31,10 +31,6 @@ desta rede.
 ARPANET entra em operacao com os quatro IMPs, conectados, construidos pela empresa Bolt Beranek and 
 Newman (BBN)
 
-1970 - Taped Gize
-E lançado o protocolo NCP (Network Control Program) que foi implementado de forma efetiva na ARPANET
-1971.
-
 1972 - Taped Gina
 Surge o primeiro protótipo de sistema de correio eletronico, realizada a primeira demonstracao publica
 da ARPANET.
@@ -46,35 +42,20 @@ hardwares. A ARPA, passa a ser chamada de DARPA e adota este protocolo.
 Darpa - Defence Advanced Research Projects Agency.
 
 1974 - Taped Kira
-Outras redes de computadores surgem paralelas à da DARP, a principal delas a NSF (National Science
-Foundation) que possuia nós em 120 universidades. Foi a primeira vez que o ternmo INTERNET derivado de 
+Outras redes de computadores surgem paralelas à da DARPA, a principal delas a NSF (National Science
+Foundation) que possuia nós em 120 universidades. Foi a primeira vez que o termo INTERNET derivado de 
 Internetworking foi utilizado.
 
-1975 - Taped Gail
-NASA planeja uma rede propria conectada a ARPANET.
-
 1976 - Taped Cash
-Início do projeto de implementacao do TCP implementado no Sistema Operacional mais bem sucedido da 
+Início do projeto de implementação do TCP implementado no Sistema Operacional mais bem sucedido da 
 história, o UNIX laçado em 1969.
 
 1977 - Taped Kiko
 Funcionamento da internet entre continentes via Radio e Satelites, conectando a ARPANET e Lançamento
 do TCP versao 2.
 
-1979 - Taped Gabi
-Lancada a primeira versao estavel do TCP e IP, onde oficilamente contava com o IPv4.
-
-1982 - Taped Vin
-A ISO criou o padrão de interconexão conhecido como modelo OSI.
-
 1988 - Taped Gugu
 A internet chega ao Brasil, conectando algumas universidades.
-
-1989 - Taped Vape
-Interconexão entre a ARPANET e a NSFNET.
-
-1990 - Taped Piza
-ARPANET formalmente desligada e a NSFNET é a Internet.
 
 1992 - Taped Bone
 Internet aberta ao Publico do Brasil
@@ -87,9 +68,9 @@ Criacao do IPv6 para solucionar o problema de exaustao do IPv4 e outros problema
 O desenvolvimento da tecnologia nos permite criar um mundo onde fronteiras nacionais, distâncias 
 geográficas e limitações físicas tem pouco impacto em nossas vidas diarias.
 
-**** EVOLUCAO DOS SISTEMAS COMPUTACIONAIS
+**** EVOLUÇÃO DOS SISTEMAS COMPUTACIONAIS
 
-Na década de 50 os computadores eram grandes e demandavam alto grau de especialização, desta forma, as 
+Na década de 50 os computadores eram grandes e demandavam alto grau de especialização, desta forma, as pessoas
 que os operavam eram pessoas com qualificação.
 
 Em 60, houve uma evolução da arquitetura sendo possível aos usuários interagirem com o computador através
@@ -100,3 +81,22 @@ poder computacional em diversas áreas da empresa.
 
 Devido a isto, surgem novas necessidades, como o compartilhamento de recursos dos dispositivos e periféricos, a
 troca de informações e ambiente de trabalho cooperativo.
+
+***************************************************************************************************************
+****** REDES DE COMPUTADORES 
+
+Os sistemas computacionais desenvolvidos para compartilhar recursos e trocar informações
+por meio de um sistema de comunicação forma o que chamamos de Redes de Computadores.
+
+A criação da internet foi de fato um marco para a atual sociedade, ela rompeu com as limitações geográficas e transformou
+a forma que aprendemos, nos comunicamos, trabalhamos e interagimos com outra pessoas.
+
+Comunicação é o ato de transmitir informações preservando seu significado no destino.
+Os projetos de redes de computadores devem ser construídos de acordo com as características dos sinais
+transimitidos ede suas respectivas tecnologias.
+
+INFORMAÇÃO E SINAL
+O processo de comunicação fica caracterizado quando ocorre uma transmissão de INFORMAÇÃO
+de uma origem a um destino através de uma sucessão de processos:
+
+1. Geração de uma ideia (informação) na origem.
