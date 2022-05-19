@@ -1,0 +1,55 @@
+//Fundamentos de Redes de Computadores - Modelos de Redes
+
+
+No início da Informática, computadores eram maquinas gigantescas,
+conhecidas como mainframe que trabalhavam de forma isolada
+centralizando o processamento de dados de uma organização. 
+Estas máquinas eram acessadas por terminais, sem capacidade de 
+processamento. Formando as redes de teleprocessamento.
+
+O desenvolvimento tecnológico reduziu os custos de hardware levando ao 
+desejo de distribuir o poder computacional, que até então ficava centralizado.
+Esta evolução introduziu os microcomputadores no cenário das empresas.
+
+Os computadores nessa etapa não se comunicavam uns com os outros gerando
+problemas como duplicidade de recursos e dificuldade em compartilhar 
+informações.
+
+Então, para solucionar estas dificuldades apresentadas, surgiram as
+redes de Computadores, onde um sistema de comunicação foi introduzido 
+para interligar os equipamentos de processamento de dados (computadores),
+permitindo assim o compartilhamento de recursos.
+
+Então em uma rede de computadores cada dispositivo (nó) tem que ter capacidade
+de processamento e em redes de teleprocessamento todo processamento era realizado
+pela maquina central chamada mainframe.
+
+
+***************** CLASSIFICAÇÃO DAS REDES DE COMPUTADORES ***************
+
+LAN - LOCAL AREA NETWORK
+É uma rede privada que interliga equipamentos em uma região geográfica
+bem definida, como um escritório, prédio, sala e etc. É projetada 
+para permitir o compartilhamento dos recursos entre os usuários. 
+Possui uma grande velocidade de transmissão e pode ser cabeada ou WiFi.
+Interessante lembrar do fenomeno chamado lan house onde o compartilhamento
+era basicamente de internet e jogos quando as pessoas não tinha condições 
+de comprar um computador.
+
+MAN - METROPOLITAN AREA NETWORK
+Essa cobre a área de um distrito ou de uma cidade. Projetada para fornecer
+alta velocidade aos clientes, por exemplo, empresas de telecomunicações montam
+para permitir acesso à internet para seus clientes via ADSL (Oi Velox) ou cabo
+(Net Virtua).
+
+WAN - WIDE AREA NETWORK
+Intaliga locais e abrange uma grande área geográfica, como um país, continemte
+ou o mundo todo.
+
+****** MODELO DE REFERENCIA OSI (Open Systems Interconnection = RMOSI)****
+
+Por conta do sucesso ocasionado pelo lucro gerado por conta da efiência trazida dessas redes. Gerou um problema de comunicação pela falta de protocolos que pudessem padronizar os equipamentos e protocolos de diferentes empresas, que fazia com que a comunicação fosse mais difícil.
+
+Visando provera comunicação entre as redes de diferentes tecnologias a International Organization for Standardization (ISO) pesquisou esquemas de redes como, por exemplo, DECNET, SNA e TCP/IP, para tentar padronizar um conjunto de regras que balizasse seu funcionamento. Como resultado da pesquisa, a ISO criou um modelo em camadas para permitir que soluções de redes de diferentes fabricantes pudessem se comunicar.
+
+O modelo OSI possui 7 camadas onde cada uma executa uma função específica na rede, traznedo algumas vantagens.
