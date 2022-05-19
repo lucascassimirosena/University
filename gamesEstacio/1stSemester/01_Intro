@@ -80,4 +80,80 @@ A camada física define as especificações elétricas, mecânicas, funcionais e
 Desta forma, dois sistemas podem se comunicar contanto que obedeçam padrões em cada uma das camadas predeterminadas.
 
 ********************Encapsulamento dos Dados************************
+Durante a comunicação entre elementos da rede, a informação sai da aplicação do usuário e atravessa as diversas camadas funcionais apresentadas no modelo OSI sob a forma de uma Unidade de Informação, denominada PDU.
 
+
+Cada camada funcional possui o seu PDU que, genericamente, é chamado de pacote. A partir da camada de transporte cada PDEU recebe um nome específico, identificando-o conforme as funções que devem ser executadas em cada camada.
+
+PDU da camada de transporte.
+Pode ser o segumento como por exeplo, segmento TCP ou datagrama de usuário no caso do UDP da pilha TCP/IP
+
+PDU da camada de rede
+É chamado de Datagrama IP, no caso da pilha TCP/IP, ou pacote.
+
+PDU da camada de enlace
+É chamado de quadro(Frame), como por exemplo, frame ethernet
+
+PDU da Camada física
+A infomração a ser transportada é codificada como uma sequencia de bits
+
+A partir da aplicação do usuário, a ifnormação a ser transmitida será submetia a funções em cada camada do modelo OSI, podendo receber um cabeçalho que adiciona instruções para orientar a camada funcionalequivalente no equipamento destino.
+
+Este processo é denominado encapsulamento de dados e ocorre até que o quadro da camada de enlace seja encaminhado através do meio físico, serializado pela camada física, para o equipamento destino.
+
+Quando o pacote chega ao seu destino, as instruções (contidas no cabeçalho) são lidas e o desencapsulamento é realizado Pa medida que o pacote "sobe" pelas camadas do modelo OSI, até a sua chegada à camada de aplicação.
+
+Transmissão de Dados
+Para que os pacotes de dados trafeguem da origem para o destino, cada camada do modelo OSI, na origem, deve se comunicar com sua camada par no destino. Esta forma é chamada de comunicação virtual entre camadas pares, quando os protocolos destas trocam PDUs como ilustrado na figura.
+
+Aplicação <--------Troca Semânticas------------> Aplicação
+Apresentação <----Coerência Sintática das Trocas----> Apresentação
+Sessão <--------Sincronização do Diálogo------------> Sessão
+Transporte <-------Transferência de Segmentos-------> Transporte
+Rede <--------Transferência de Pactoes------------> Rede
+Enlace <-----Transferência de Quadros------> Enlace
+Físico <------Tra//nsferência de Bits-------> Físico
+
+Terminologia do modelo OSI
+Camada ou nível:
+Reúne um conjunto de serviços relacionados que serão oferecidos para as
+camadas superiores.
+
+Protocolo:
+Regras e convenções usadas no diálogo entre as camadas pares de duas máquinas
+
+Interface:
+Define as operações e os serviços que a cadama inferior tem a oferecer para a camada superior.
+
+Entidade 
+Elemetno ativo das camadas, pode ser um software ou hardware.
+
+Entidades pares (ou parceiras)
+Entidades da mesma camada em máquinas diferentes
+
+Serviço
+Conjunto de funções oferecidas a um usuário por uma camada.
+
+SAP (Service Access Point)
+Ponto de acesso ao serviço oferecido pela camada.
+
+************************TCP/IP****************************
+O TCP/IP é um conjunto de protocolocs hierárquicos que embasa o funcionamento a internet e, atualmente, o funcionamento de praticamente todas as redes sociais.
+
+A arquitetura TCP/IP asism como a arquitetura OSI, realiza diversas funções do sistema de comunicação em estruturas de camadas, porém, como foi desenvolvida antes do modelo OSI, camadas não correspondem exatamente as do RMOSI.
+
+o TCP/IP é formado por 4 camadas:
+Aplicação:
+Que corresponde a aproximadamente 3 camadas do sistema OSI, e que trata questões de representação, codificação e controle de diálogo. O TCP/IP 
+combina todas as questões relacionadas a aplicações em uma camada e presume que esses dados estejam empacotados corretamente para a próxima camada.
+
+Transporte:
+Correspondendo aproximadamente a camada de transporte do OSI, reúne os protocolos que realizam funções de transporte de dados fim a fim, considerando apenas a origem e o destino da comunicação, sem se preocupar com elementos intermediários.A camada de transporte possui dois protocolos principais que são o UDP (User Datagram Protocol) e TCP(Transmission Control Protocol).
+
+Inter-rede:
+Corresponde aproximadamente à camada de rede do OSI tendo como finalidade enviar pacotes da origem de qualquer rede e faze-los chegar ao
+destino, independemente do caminho e das redes que tomem para chegar lá.
+O protocolo específico que governa essa camada é chamado protocolo de internet (IP). A determinação do melhor caminho e a comutação de pacotes acontece nessa camada.
+
+Intra-rede
+É também chamada de camda host-rede ou rede de acesso. É a camada que se relaciona a tudo aquilo que um pacote IP necessita para realmente estabelecer um link físico e depois estabelecer outro link físico. O que inclui detalhes da tecnologia de LAN e WAN e todos os detalhes nas camadas física e de enlace do OSI.
