@@ -53,3 +53,31 @@ Por conta do sucesso ocasionado pelo lucro gerado por conta da efiência trazida
 Visando provera comunicação entre as redes de diferentes tecnologias a International Organization for Standardization (ISO) pesquisou esquemas de redes como, por exemplo, DECNET, SNA e TCP/IP, para tentar padronizar um conjunto de regras que balizasse seu funcionamento. Como resultado da pesquisa, a ISO criou um modelo em camadas para permitir que soluções de redes de diferentes fabricantes pudessem se comunicar.
 
 O modelo OSI possui 7 camadas onde cada uma executa uma função específica na rede, traznedo algumas vantagens.
+
+Camada 7: Aplicação
+Mais proxima do usuário. Fornece serviçõs de rede aos aplicativos do usuário como navegadores, clientes de correio eletrônico, aplicativos bancários e outros que desejam acessar a rede.
+
+Camada 6: Apresentação
+Sua função é realizar transformações adequadas nos dados, tais como a compressão de textos, a criptografia, a conversão de padrões de terminais e arquivos para padrões de rede e vice-versa.
+
+Camada 5: Sessão
+O nível de sessão fornece mecanismos que permitem estruturar os circuitos oferecidos pelo nível de transporte, ordenando a conversação entre equipamentos.
+
+Camada 4: Transporte
+O nível de rede, dependendo da tecnologia utilizada, pode ou não garantir que um pacote chegue a seu destino. Desta forma, a camada de transporte pode também implementar a confirmação de entrega.
+
+No nível de transporte a comunicação é fim a fim, isto é, a entidade do nível de transporte da máquina origem se comunica com a entidade do nível de transporte destino. Isso pode não acontecer nos níveis físicos, de enlace e de rede, onde a comunicação se dá entre máquinas adjacentes (vizinhos) na rede.
+
+Camada 3: Rede
+A camada de rede provê conexão entre dois hosts que podem estar localizados em redes diferentes e, eventualmente, distantes do ponto de vista geografico. Para tal inclui entre os seus serviços o endereçamento lógio e o reteamento, ou seja, a seleção de caminhos entre a rede de origem e a rede de destino.
+
+Camada 2: Enlace
+A camada de enlace pode fornecer trânsito seguro de dados através de um link físico. Fazendo isso, a camada de enlace trata do endereçamento físico (em oposição ao endereçamento lógico), da topoligia de rede, do acesso à rede, da notificação de erro, da entrega de quadros e do controle de fluxo.
+
+Camada 1: Física
+A camada física define as especificações elétricas, mecânicas, funcionais e de procesimentos para ativar, manter e desativar o link físicos entre sistemas finais. Características como níveis de voltagem, temporização de alterações de voltagem, taxas de dados físicos, distâncias máximas de transmissão, conectores físicos e outros atributos similares são definidas pelsa especificações dessa camada física.
+
+Desta forma, dois sistemas podem se comunicar contanto que obedeçam padrões em cada uma das camadas predeterminadas.
+
+********************Encapsulamento dos Dados************************
+
