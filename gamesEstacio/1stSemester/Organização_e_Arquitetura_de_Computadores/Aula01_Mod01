@@ -1,0 +1,64 @@
+Computadores, você os usa para tudo, entreterter, estudar, procurar emprego,
+se relacionar e inúmeraas outras funções. Essa tecnologia surgiu a pouquíssimo
+tempo e mudou a vida do ser humano de maneira exponencial
+
+É difícil acreditar que o computador surgiu no século XX.
+
+A Máquina de Turing
+No início do século XX.
+
+--------------------------------------------------------------------------
+Em 1930 - Alan Turing estudava como máquinas poderiam ser pogramadas para
+resolver diferentes problemas.
+Então surgiu o conceito de Máquina de Turing, o percursor do computador.
+Ela é composta de 4 elementos:
+1. Uma fita infinita dividida em células que podem ser lidas e escritas.
+2. Um cabeçote capaz de ler ou escrever em uma célula da fita e mover-se
+para esquerda ou direita sobre a fita.
+3. Um registrador que mantenha o estado atual da máquina.
+4. Uma função de transição que calcula, a partir do estado atual e do símbolo lido, qual o novo estado e se o cabeçote deve se mover ou escrever
+na fita.
+
+Além Máquina Teórico ele formalizou estudos sobre o Algoritmo.
+Conjunto finito de passos capaz de resolver um problema.
+--------------------------------------------------------------------------
+
+A quatro gerações do Desenvolvimento do computador:
+1ª: Válvulas Termiônicas
+Durante a segunda guerra mundial foi produzido um computador chamado ENIAC, nos EUA, um computador integrador eletrônico.
+
+Pesava 30 toneladas, tinha 170 mil válvulas termiônicas, ocupava uma sala
+de 150m² e tinha uma capacidade impressionante de processamento de 1 bilhão de vezes menor que a dos celulares modernos.
+
+Para evoluir deste gigante para os computadores atuais foi necessário 
+substituir as válvulas que eram pesadas e espaçosas.
+
+O que possibilitou essa evolução foi o transistor.
+
+2ª: Transistores
+Os primeiros transistores ocupavam apenas milímetros, precisando muito
+menos energia do que as válvulas.
+
+Dessa forma foi possível reduzir o tamanho de rádios, equipamentos eletrônicos em geral e computadores.
+
+3ª: Circuitos Integrados
+Na década de 1960, a evolução ocorreu devido à criação dos chamados circuitos Integrados (CI): pastilhas de silício que contêm um circuito 
+eletrônico miniaturizado.
+
+É o que chamamos de chip de computador.
+Por conta dessa evolução os computadores ficaram cada vez menores e mais
+baratos até que em 1970 surgiram os Computadores Pessoais (PCs).
+
+Nesse período surgiu a Apple e a Microsoft.
+
+4ª: Microprocessadores
+A partir da década de 1980, foi possível ver a proliferação de computadores cada vez mais potentes, baratos e contectados por meio do 
+surgimento das redes locais de computadores e da internet: a rede mundial.
+
+Além disso, um novo equipamento aparecia nos lares: o videogame, um tipo de comptuador especializado, cujos programas são jogos eletrônicos com ênfase nos gráficos e na interação com os usuários.
+
+Os computadores, no finla do século XX já eram tão pequenos e potentes que se encontravam embracados nos mais diversos tipos de equipamentos, como videogames, aviões e automóveis, além de se tornar comum a presença dos laptops. 
+
+Não tardou até que estes computadores fossem integrados a televisões e celulares. Em 2010, essa integrassou apssou feita através dos smartphones e smart TVs.
+
+
