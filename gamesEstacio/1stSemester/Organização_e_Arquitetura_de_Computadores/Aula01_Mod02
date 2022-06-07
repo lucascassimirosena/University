@@ -1,0 +1,21 @@
+Os computadores são divididos entre dois grupos: Hardware e Software
+A parte física do computador, ou seja, tudo aquilo que pode ser visto e tocado
+se chama Hardware, e a parte digital, os programas executados no computador é a parte
+de software dele.
+
+Os principais componentes de um computador são: Placa-Mãe, Memória e Processador
+
+Processador:
+Conhecido também como CPU(Central Processing Unit ou Unidade Central de Processamento),
+é o cérebro do coomputador pois recebe as instruções e as executa sequencialmente. Seu principal componente é a unidade lógica e aritmética, responsável por operações como somar e subtrair.
+
+As instruções de um processador são reguladas pela presença de um pulso
+de frequência constante chamado de clock, medido em Hertz(Hz) - número de
+pulsos por segundo.
+
+Hoje existem processadores com diversos núcleso que funcionam como vários processadores em um mesmo chip. Essa técnica ficou conhecida coom multicore. 
+
+Dual Core são processadores de dois núcleso e Quad core, processadores de quatro núcleos.
+
+A Memória Principal (RAM):
+
