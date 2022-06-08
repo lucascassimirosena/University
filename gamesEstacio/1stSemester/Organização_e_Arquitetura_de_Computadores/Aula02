@@ -1,0 +1,46 @@
+******************COMPONENTES DE HARDWARE********************************
+
+
+É importante em um sistema de computação, saber a distinção entre Dados e 
+Informação.
+
+Dados - constituem um conjunto de dados em estado bruto a partir dos quais
+conclusões podem ser tiradas.
+
+Informação - É a inteligência eo conhecimento derivado dos dados.
+
+Tipos de Linguagens:
+Linguagens de baixo nível de abstração são aquelas que estão relacionadas diretamente
+à arquitetura do processodr. São conhecidas como Linguagens de montagens e Assembly.
+
+Linguagens de alto nível de abstração:
+Possuem o nível de abstração  relativamente elevado, mais afastado da linguagem de 
+montagem. São linguagens como C++, Delphi, Fortran.
+
+
+A organização funcional de um sistema de computação é formada pelos seguintes componentes:
+- Memória Principal
+- Memória Secundária
+- Processador
+- Dispositivo de Entrada
+- Dispositivo de Saída
+
+Todo sistema de computação é organizado em três grandes módulos ou subsistemas:
+1. Processador
+2. Memória
+3. Entrada/Saída(E/S)
+
+A comunicação entre estes componentes é realizada através de sinais elétricos que trafegam por fios chamados, em conjunto, de barramento.
+
+Processadores
+Os processadores são projetados com a capacidade de realizarem diretamente pelo hardware pequenas e simpels operações.
+
+- Executar operações aritméticas com 2 números (somar, subtrair, multiplicar, dividir);
+- Mover um dado de um local para o outro;
+- Mover um número (dado) de dispositivo de entrada ou saída;
+- Desviar a sequência de controle.
+
+Os processadores então interpretam o que fazer(qual operação) e executam
+operações.
+
+
