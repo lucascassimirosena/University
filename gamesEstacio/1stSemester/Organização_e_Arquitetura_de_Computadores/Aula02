@@ -49,6 +49,15 @@ Possuem fios que enviam sinais específicos de controle e comunicação durante 
 O total de pinos do processador ou total de furos do soquete, é a soma dos fios do BC, do BD e do BE.
 TotalPinos = BD + BC + BE.
 
+
+Após chegar ao processador e ser processado, um dado resultade agora poderá seguir pelo BD,
+para ser armazenado em um endereço de memória, atraés de uma operação chamada operação de escrita.
+
+A QUANTIDADE DE CÉULAS DE MEMÓRIA pode ser obtida através da operação N = 2(elevado a L):
+N - número de células
+2 - Porque o computador trabalha em um sistema binário
+L - largura do barramento de endereços.
+
 Processadores
 Os processadores são projetados com a capacidade de realizarem diretamente pelo hardware pequenas e simpels operações.
 
@@ -61,5 +70,11 @@ Os processadores então interpretam o que fazer(qual operação) e executam
 operações.
 
 
-Após chegar ao processador e ser processado, um dado resultade agora poderá seguir pelo BD,
-para ser armazenado em um endereço de memória, atraés de uma operação chamada operação de escrita.
+Conjunto de Instruções:
+São todas as possíveis instruções que podem ser interpretadas e executadas por um processador.
+
+Ciclo de Instruções:
+Conjunto de instruções de máquina sequencialmente organizada para execução de um programa.
+
+Início -> Buscar Instrução na Memória -> Interpretar a operação a ser realizada -> Buscar Operandos (Se houver)
+-> Executar a operação -> Início.
