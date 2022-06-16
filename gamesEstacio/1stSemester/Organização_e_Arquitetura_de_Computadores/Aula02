@@ -78,3 +78,19 @@ Conjunto de instruções de máquina sequencialmente organizada para execução 
 
 Início -> Buscar Instrução na Memória -> Interpretar a operação a ser realizada -> Buscar Operandos (Se houver)
 -> Executar a operação -> Início.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::MOD 2:::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::SUBSISTEMAS DE PROCESSAMENTO:::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Um processador ou Unidade Central de Processamento - UCP(Central Process Unit)
+Possui duas funções principais:
+
+Função processamento:
+Responsável pelo processamento de dados.
+
+Função controle:
+É a parte funcional que realiza a atividade de buscar instrução, interpretar as ações, gerar os 
+sinais de controle para ativar as atividades requeridas (dentro ou fora do processador).
+
