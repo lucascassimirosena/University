@@ -26,12 +26,28 @@ A organização funcional de um sistema de computação é formada pelos seguint
 - Dispositivo de Entrada
 - Dispositivo de Saída
 
+Os computadores atuais existem graças à arquitetura de  John Von Neumann concebida em 1946.
+
+
 Todo sistema de computação é organizado em três grandes módulos ou subsistemas:
 1. Processador
 2. Memória
 3. Entrada/Saída(E/S)
 
 A comunicação entre estes componentes é realizada através de sinais elétricos que trafegam por fios chamados, em conjunto, de barramento.
+:::::::::::::::::::Tipos de Barramentos::::::::::::::::::::::::::::::::::
+Barramento de Dados (BD):
+São bidirecionais, transportam bits de dados entre o processador e outro componente, e vice-versa.
+
+Barramento de Endereços (BE):
+São unidirecionais, transportam bits de um endereço de acesso de memória ou de dispositivo de E/S,
+do processador para o controlador do barramento.
+
+Barramento de Controle (BC):
+Possuem fios que enviam sinais específicos de controle e comunicação durante uma determinada operação.
+
+O total de pinos do processador ou total de furos do soquete, é a soma dos fios do BC, do BD e do BE.
+TotalPinos = BD + BC + BE.
 
 Processadores
 Os processadores são projetados com a capacidade de realizarem diretamente pelo hardware pequenas e simpels operações.
@@ -45,3 +61,5 @@ Os processadores então interpretam o que fazer(qual operação) e executam
 operações.
 
 
+Após chegar ao processador e ser processado, um dado resultade agora poderá seguir pelo BD,
+para ser armazenado em um endereço de memória, atraés de uma operação chamada operação de escrita.
