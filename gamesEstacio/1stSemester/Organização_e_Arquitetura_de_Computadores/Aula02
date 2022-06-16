@@ -94,3 +94,32 @@ Função controle:
 É a parte funcional que realiza a atividade de buscar instrução, interpretar as ações, gerar os 
 sinais de controle para ativar as atividades requeridas (dentro ou fora do processador).
 
+Memória:
+A memória possui a função de armazenar e recuperar valores quando desejado.
+É um sistema contituido de vários componentes, cada um com velocidades, custos E
+capacidades diferentes.
+
+Existe o que se chama hierarquia de memórias.
+As memórias são: 
+- Registradores;
+- Memória Cache;
+- Memória Principal - MP(ex: RAM);
+- Memória Secundária (ex: HDs, Pendrive);
+- Memória Virtual;
+
+Registradores:
+Os Registradores são um tipo de memória que é localizada dentro do processador.
+
+Registradores de Dados armazenam os dados que serão processados pelas unidades de cálculo,
+separados em unidades para núemros inteiros e números de ponto flutuante.
+Registrador de Dados de Memória - RDM (Memory Buffer Register - MBR) para transferências externas de dados.
+Registrador de Endereço - REM (Memory Address Register - MAR) - Para transferência externa de endereços de memória.
+Contador de Instrução (CI) - Para buscar a próxima instrução.
+Registrador de Instrução (RI) armazena instrução.
+Segmentos para armazenar endereços de Segmentos.
+Flags podem ser usadas para indicar o resultado de certas instruções.
+
+Memória Cache:
+A memória cache fica situada entre a memória principal e o processador. Essa memória armazenauma certa QUANTIDADE
+dos dados que estão sendo utilizados no momento, e que são transferidos para o processador em alta velocidade.
+
